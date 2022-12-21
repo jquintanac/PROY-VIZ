@@ -57,7 +57,9 @@ For my **loading** process, I uploaded the final table in Power BI to start with
 
 ## Visualization
 
-My objective with this database is to get the relevant information about most frequent diseases around the world and to know why they are as a Health professional. From now to the end of the visualization, you can call me *Dr. Quintana*👨‍⚕️. 
+My objective with this database is to get the relevant information about most frequent diseases around the world and to know why they are as a Health professional. From now to the end of the visualization, you can call me *Dr. Quintana*👨‍⚕️.
+
+[The information below is about illness, diseases and statistics related to these parameters, no about visualization. Check the repo to see visualizations.]
 
 The top global causes of death, according the WHO (World Health Organization), in order of total number of lives lost, are associated with three broad topics: **cardiovascular** (ischaemic heart disease, stroke), **respiratory** (chronic obstructive pulmonary disease, lower respiratory infections) and **neonatal conditions** – which include birth asphyxia and birth trauma, neonatal sepsis and infections, and preterm birth complications<sup>**1**</sup>.
 
